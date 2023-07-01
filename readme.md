@@ -6,3 +6,6 @@
 
 * Output 2, selecting different start and goal coordinates to show the generalization of code
 ![Output_2](output2video.gif)
+
+* Checking the hybridized goal biased - RRT* algorithm where ther randomly sampled points are generated scloser to the goal point, thus ensuring faster convergence
+![Goal_biased_output](Goal_biased.jpg)
