@@ -4,5 +4,5 @@
 * Output 1, selecting random start and goal coordinates.
 ![Output_1](output1video.gif)
 
-* Output 2, selecting different start and goal coordinates to show generalization of code
+* Output 2, selecting different start and goal coordinates to show the generalization of code
 ![Output_2](output2video.gif)
